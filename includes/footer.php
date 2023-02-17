@@ -1,5 +1,5 @@
         <footer>
-          <div class="logo"><a href="https://www.yipintsoi.com//"></a></div>
+          <div class="logo"><a href="https://www.openshift.com/"></a></div>
         </footer>
 </section>
 
